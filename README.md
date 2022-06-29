@@ -7,4 +7,8 @@ first 327 columns contain the features. The last column (‘target’) contains 
 unsatisfiable and 1 for satisfiable.
 
 
-I started with KNN and decision tree and checked the accuracy of the models, after then I moved to tune my hyperparameters and did feature reduction. Lastly opt Random forest model using pipeline and the accuracy was 99% on Test data. For more info, check the code.
+I started with KNN and decision tree and checked the accuracy of the models, after then I moved to tune my hyperparameters and did feature reduction. Lastly opt Random forest model using pipeline and created a single code cell that loads it and
+evaluate it on the following test dataset: https://github.com/andvise/DataAnalyticsDatasets/blob/main/dm_assignment2/sat_dataset_test.csv
+
+
+The accuracy was 99% of my model on Test data. For more info, please check the code.
