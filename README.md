@@ -5,3 +5,6 @@ The Boolean satisfiability (SAT) problem consists in determining whether a Boole
 This is original, unpublished data. The CSV file contains 1929 rows and 328 columns. The
 first 327 columns contain the features. The last column (‘target’) contains the label; 0 for
 unsatisfiable and 1 for satisfiable.
+
+
+I started with KNN and decision tree and checked the accuracy of the models, after then I moved to tune my hyperparameters and did feature reduction. Lastly opt Random forest model using pipeline and the accuracy was 99% on Test data. For more info, check the code.
