@@ -11,4 +11,4 @@ I started with KNN and decision tree and checked the accuracy of the models, aft
 evaluate it on the following test dataset: https://github.com/andvise/DataAnalyticsDatasets/blob/main/dm_assignment2/sat_dataset_test.csv
 
 
-The accuracy was 99% of my model on Test data. For more info, please check the code.
+The accuracy was 99% of my model on Test data. For more info, please check https://github.com/dubeykanishka/DataMining/blob/main/SAT%20Problem.ipynb
